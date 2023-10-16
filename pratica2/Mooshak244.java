@@ -1,4 +1,4 @@
-package semana1;
+package pratica2;
 import java.util.Scanner;
 
 public class Mooshak244 {

@@ -2,7 +2,7 @@ como compilar:
 
 java Mooshak{ id }.java < { id }.txt
  
-semana 1:
+pratica 2:
     -120
     -121
     -183
