@@ -1,4 +1,3 @@
-package pratica2;
 // aceite
 
 import java.util.Scanner;

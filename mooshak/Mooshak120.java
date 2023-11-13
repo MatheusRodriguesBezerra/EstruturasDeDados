@@ -1,4 +1,3 @@
-package pratica2;
 // import java.util.Scanner;  // Import the Scanner class
 
 // public class Mooshak120 {
